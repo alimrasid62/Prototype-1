@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755328646549",
+    "project_id": "login-register-8ce80",
+    "storage_bucket": "login-register-8ce80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755328646549:android:cc37a930948ddecab0ca9c",
+        "android_client_info": {
+          "package_name": "com.alimrasid.loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WCRjsQgvJD_61IkkAd8NvM31Blka3_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755328646549:android:6db63fd1d114cbcbb0ca9c",
+        "android_client_info": {
+          "package_name": "com.alimrasid.prototype1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_WCRjsQgvJD_61IkkAd8NvM31Blka3_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
